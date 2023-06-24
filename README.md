@@ -1,0 +1,1 @@
+# qazaq-slug-generator-php
